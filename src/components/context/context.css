@@ -1,0 +1,11 @@
+.chart-green {
+    background: green;
+    height: 15px;
+    width: 5px;
+}
+
+.chart-red {
+    background: red;
+    height: 15px;
+    width: 5px;
+}
